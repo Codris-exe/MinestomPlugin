@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    implementation("net.minestom:minestom-snapshots:32735340d7")
+    implementation("net.minestom:minestom-snapshots:7320437640")
 }
 
 tasks {
